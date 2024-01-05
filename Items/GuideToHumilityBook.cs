@@ -36,7 +36,6 @@ public class GuideToHumilityBook : ModItem
 
     public override void RightClick(Player player)
     {
-        Main.NewText("test");
         player.PutItemInInventoryFromItemUsage(ModContent.ItemType<GuideToHumilityBookInactive>());
     }
 }

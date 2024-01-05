@@ -26,6 +26,6 @@ public class GuideToHumilityBookInactive : ModItem
     
     public override void RightClick(Player player)
     {
-        player.PutItemInInventoryFromItemUsage(ModContent.ItemType<GuideToHumilityBook>(), Type);
+        player.PutItemInInventoryFromItemUsage(ModContent.ItemType<GuideToHumilityBook>());
     }
 }
