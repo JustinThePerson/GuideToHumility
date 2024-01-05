@@ -1,0 +1,3 @@
+displayName = Guide To Humility
+author = KingFlower
+version = 0.1

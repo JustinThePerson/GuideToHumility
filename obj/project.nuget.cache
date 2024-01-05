@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhEDKRgZHwUJBDSlT/7YPAdISfnAWcnCPlZ5gBTtP9myzNAUYvLmEkpDbc2jeoFzd+ofuTak/EyV1+9fVEojXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hylar\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\GuideToHumility\\GuideToHumility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hylar\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

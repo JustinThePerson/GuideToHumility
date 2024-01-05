@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	testSword: {
+		DisplayName: test Sword
+		Tooltip: ""
+	}
+
+	guideToHumility: {
+		DisplayName: guide To Humility
+		Tooltip: ""
+	}
+
+	GuideToHumilityBook: {
+		DisplayName: Guide To Humility Book
+		Tooltip: ""
+	}
+
+	GuideToHumilityBookInactive: {
+		DisplayName: Guide To Humility Book Inactive
+		Tooltip: ""
+	}
+}
